@@ -1,4 +1,4 @@
-# Incredibox
+# Incredibox Roses
 A source code of PC version of Incredibox hacked from the Android version
 
 You can run it on apache, nginx or any other web server.  
